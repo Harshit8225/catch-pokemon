@@ -1,5 +1,5 @@
 import './App.css'
-import { Poke } from '../pokemon/poke'
+import { Poke } from '../pokemon/Poke'
 function App() {
       return(
         <Poke/>
